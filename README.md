@@ -13,7 +13,7 @@ Currencies list:
 > http://0.0.0.0:8000/converter/currencies/
 
 Rates list:
-> http://0.0.0.0:8000/converter/rate/
+> http://0.0.0.0:8000/converter/rates/
 
 Convert:
 > http://0.0.0.0:8000/converter/CZK/PLN/100/
