@@ -26,7 +26,7 @@ Converter
 ## Tests
 
 ```bash
-./app/bin/tests.sh
+./bin/tests-app.sh
 ```
 
 ## License
